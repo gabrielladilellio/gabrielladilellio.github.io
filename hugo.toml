@@ -1,0 +1,22 @@
+baseURL = 'https://gabrielladilellio.github.io/'
+languageCode = 'it-it'
+title = 'Tracce di Terre Alte'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Articoli"
+  url = "/posts/"
+  weight = 2
