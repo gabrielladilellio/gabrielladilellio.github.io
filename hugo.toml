@@ -1,4 +1,5 @@
 baseURL = 'https://gabrielladilellio.github.io/'
+publishDir = "docs"
 languageCode = 'it-it'
 title = 'Tracce di Terre Alte'
 theme = 'PaperMod'
