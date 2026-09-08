@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tracce di Terre Alte</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://gabrielladilellio.github.io/posts/</link>
     <description>Recent content in Posts on Tracce di Terre Alte</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Mon, 07 Sep 2026 07:39:52 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gabrielladilellio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primo Articolo</title>
-      <link>http://localhost:1313/posts/primo-articolo/</link>
+      <link>https://gabrielladilellio.github.io/posts/primo-articolo/</link>
       <pubDate>Mon, 07 Sep 2026 07:39:52 +0200</pubDate>
-      <guid>http://localhost:1313/posts/primo-articolo/</guid>
+      <guid>https://gabrielladilellio.github.io/posts/primo-articolo/</guid>
       <description>&lt;p&gt;questo è il mio primo articolo. Sto imparando a usare Hugo sono molto contenta&lt;/p&gt;</description>
     </item>
   </channel>
